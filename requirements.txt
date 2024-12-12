@@ -6,3 +6,4 @@ git+https://github.com/rahulps1000/pyropatch.git@pyrotgfork
 pyrotgfork
 TgCrypto
 uvloop
+psycopg2-binary
